@@ -16,4 +16,4 @@ Este projeto tem como objetivo prever o valor do aluguel de imóveis com base em
 ## Como Reproduzir o Projeto
 1. Clone este repositório:
    ```bash
-
+   git clone https://github.com/seu-usuario/Projeto-Regressao-Linear.git
