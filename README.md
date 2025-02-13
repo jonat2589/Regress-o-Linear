@@ -26,4 +26,4 @@ O objetivo deste projeto é prever o valor do aluguel de imóveis a partir de ca
 ### Exemplo de Resultado  
 Gráfico mostrando a relação entre variáveis e o preço do aluguel:  
 
-![Gráfico de Dispersão](caminho/para/o/grafico.png)
+![Gráfico de Dispersão]("C:\Users\Portaria2\Pictures\download.png")
