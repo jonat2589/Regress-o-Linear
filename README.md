@@ -5,7 +5,7 @@ O objetivo deste projeto é prever o valor do aluguel de imóveis a partir de ca
 
 ## Métodos Utilizados
 - Pré-processamento de dados (limpeza, tratamento de valores faltantes, transformação logarítmica).
-- Regressão linear simples (apenas metragem).
+- Regressão linear simples (considerando apenas uma variável).
 - Regressão linear múltipla (todas as variáveis).
 - Avaliação dos modelos com métricas como R² e MSE.
 
@@ -17,3 +17,13 @@ O objetivo deste projeto é prever o valor do aluguel de imóveis a partir de ca
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/Projeto-Regressao-Linear.git
+
+## Tecnologias Utilizadas
+- Linguagem: Python  🐍
+- Bibliotecas: Pandas, NunPy, Matplotlib, Sckikit-Learn
+- Ferramentas: Jupyter Notebook
+
+### Exemplo de Resultado  
+Gráfico mostrando a relação entre variáveis e o preço do aluguel:  
+
+![Gráfico de Dispersão](caminho/para/o/grafico.png)
