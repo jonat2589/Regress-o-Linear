@@ -1,7 +1,7 @@
 # Projeto de Regressão Linear: Previsão de Valores de Aluguel
 
 ## Descrição do Projeto
-Este projeto tem como objetivo prever o valor do aluguel de imóveis com base em características como metragem, número de quartos, banheiros, suites e vagas de garagem. Foram utilizados modelos de regressão linear simples e múltipla para realizar as previsões.
+O objetivo deste projeto é prever o valor do aluguel de imóveis a partir de características como localização, número de quartos, banheiros, suítes e vagas de garagem. Para isso, utilizamos modelos de regressão linear simples e múltipla, avaliando seu desempenho com métricas como R² e MSE.
 
 ## Métodos Utilizados
 - Pré-processamento de dados (limpeza, tratamento de valores faltantes, transformação logarítmica).
